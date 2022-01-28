@@ -1,0 +1,33 @@
+.nav{
+    left:0;
+    right:0;
+    top:0;
+    position:fixed;
+    background:rgb(41, 7, 7);
+    padding:20px;
+    text-align:left
+
+}
+.nav a{
+    color:#ffffff;
+    font-size:1.2rem;
+    font-weight:700;
+    text-decoration: none;
+}
+
+.nav li{
+  
+    display: inline
+}
+.nav li a{
+    color:#ffffff;
+    font-size:.7rem;
+    text-decoration: none;
+    padding:20px;
+}
+
+
+.nav ul{
+    list-style: none;
+    display: inline
+}
